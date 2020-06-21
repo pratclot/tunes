@@ -174,6 +174,12 @@
             <visible>0</visible>
             <durationType>quarter</durationType>
             </Rest>
+          <Tempo>
+            <tempo>3</tempo>
+            <followText>1</followText>
+            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 180
+</b></text>
+            </Tempo>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -2023,19 +2029,7 @@
               </Note>
             </Chord>
           <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
+            <fractions>5/8</fractions>
             </location>
           <Chord>
             <durationType>eighth</durationType>
@@ -2420,13 +2414,7 @@
               </Note>
             </Chord>
           <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
+            <fractions>3/8</fractions>
             </location>
           <Chord>
             <durationType>quarter</durationType>
@@ -2548,9 +2536,6 @@
               <string>2</string>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
           </voice>
         </Measure>
       <Measure>
@@ -4401,9 +4386,6 @@
               <string>0</string>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
           </voice>
         </Measure>
       <Measure>
@@ -4626,12 +4608,6 @@
               <string>0</string>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
           </voice>
         </Measure>
       <Measure>
@@ -4730,10 +4706,7 @@
           </voice>
         <voice>
           <location>
-            <fractions>1/4</fractions>
-            </location>
-          <location>
-            <fractions>1/4</fractions>
+            <fractions>1/2</fractions>
             </location>
           <Chord>
             <durationType>eighth</durationType>
@@ -4999,10 +4972,7 @@
               </string>
             </FretDiagram>
           <location>
-            <fractions>1/4</fractions>
-            </location>
-          <location>
-            <fractions>1/4</fractions>
+            <fractions>1/2</fractions>
             </location>
           <FretDiagram>
             <fretOffset>3</fretOffset>
@@ -5062,9 +5032,6 @@
               <string>0</string>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
           </voice>
         </Measure>
       <Measure>
@@ -5293,10 +5260,7 @@
           </voice>
         <voice>
           <location>
-            <fractions>3/8</fractions>
-            </location>
-          <location>
-            <fractions>1/4</fractions>
+            <fractions>5/8</fractions>
             </location>
           <Chord>
             <durationType>quarter</durationType>
@@ -5498,10 +5462,7 @@
           </voice>
         <voice>
           <location>
-            <fractions>1/4</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
+            <fractions>3/8</fractions>
             </location>
           <Chord>
             <durationType>quarter</durationType>
@@ -5712,10 +5673,7 @@
           </voice>
         <voice>
           <location>
-            <fractions>1/4</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
+            <fractions>3/8</fractions>
             </location>
           <Chord>
             <durationType>quarter</durationType>
@@ -5856,9 +5814,6 @@
               <string>0</string>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
           </voice>
         </Measure>
       <Measure>
@@ -5983,9 +5938,6 @@
               <string>0</string>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
           </voice>
         </Measure>
       <Measure>
@@ -6217,10 +6169,7 @@
           </voice>
         <voice>
           <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/4</fractions>
+            <fractions>3/8</fractions>
             </location>
           <FretDiagram>
             <frets>4</frets>
@@ -6288,9 +6237,6 @@
               <string>1</string>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
           </voice>
         </Measure>
       <Measure>
@@ -6395,10 +6341,7 @@
           </voice>
         <voice>
           <location>
-            <fractions>3/8</fractions>
-            </location>
-          <location>
-            <fractions>1/4</fractions>
+            <fractions>5/8</fractions>
             </location>
           <Chord>
             <durationType>quarter</durationType>
@@ -6501,10 +6444,7 @@
           </voice>
         <voice>
           <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/4</fractions>
+            <fractions>3/8</fractions>
             </location>
           <Chord>
             <durationType>quarter</durationType>
@@ -6773,10 +6713,7 @@
           </voice>
         <voice>
           <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/4</fractions>
+            <fractions>3/8</fractions>
             </location>
           <FretDiagram>
             <frets>4</frets>
@@ -6845,10 +6782,7 @@
               </Note>
             </Chord>
           <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
+            <fractions>1/4</fractions>
             </location>
           <Chord>
             <durationType>eighth</durationType>
@@ -6966,10 +6900,7 @@
               </string>
             </FretDiagram>
           <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/4</fractions>
+            <fractions>3/8</fractions>
             </location>
           <Chord>
             <durationType>quarter</durationType>
@@ -6989,9 +6920,6 @@
               <string>0</string>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
           </voice>
         </Measure>
       <Measure>
@@ -7217,10 +7145,7 @@
           </voice>
         <voice>
           <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
+            <fractions>1/4</fractions>
             </location>
           <Chord>
             <durationType>quarter</durationType>
@@ -7231,12 +7156,6 @@
               <string>0</string>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
           </voice>
         </Measure>
       <Measure>
@@ -7365,10 +7284,7 @@
               </Note>
             </Chord>
           <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
+            <fractions>1/4</fractions>
             </location>
           <Chord>
             <durationType>eighth</durationType>
@@ -7479,19 +7395,7 @@
           </voice>
         <voice>
           <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
+            <fractions>5/8</fractions>
             </location>
           <Chord>
             <durationType>quarter</durationType>
@@ -7685,9 +7589,6 @@
               <string>0</string>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
           </voice>
         </Measure>
       <Measure>
@@ -7789,13 +7690,7 @@
           </voice>
         <voice>
           <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
+            <fractions>3/8</fractions>
             </location>
           <Chord>
             <durationType>quarter</durationType>
@@ -7936,9 +7831,6 @@
               <string>0</string>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
           </voice>
         </Measure>
       <Measure>
@@ -8063,9 +7955,6 @@
               <string>0</string>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
           </voice>
         </Measure>
       <Measure>
@@ -8903,25 +8792,7 @@
           </voice>
         <voice>
           <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
+            <fractions>7/8</fractions>
             </location>
           <Chord>
             <durationType>eighth</durationType>
@@ -9035,16 +8906,7 @@
           </voice>
         <voice>
           <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
+            <fractions>1/2</fractions>
             </location>
           <FretDiagram>
             <fretOffset>3</fretOffset>
@@ -9361,19 +9223,7 @@
           </voice>
         <voice>
           <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
+            <fractions>5/8</fractions>
             </location>
           <Chord>
             <durationType>quarter</durationType>
@@ -9490,10 +9340,7 @@
               </Note>
             </Chord>
           <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
+            <fractions>1/4</fractions>
             </location>
           <Chord>
             <durationType>eighth</durationType>
@@ -9632,16 +9479,7 @@
               </Note>
             </Chord>
           <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
+            <fractions>1/2</fractions>
             </location>
           <Chord>
             <durationType>quarter</durationType>
@@ -9834,10 +9672,7 @@
           </voice>
         <voice>
           <location>
-            <fractions>1/4</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
+            <fractions>3/8</fractions>
             </location>
           <Chord>
             <durationType>quarter</durationType>
@@ -9946,13 +9781,7 @@
           </voice>
         <voice>
           <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
+            <fractions>3/8</fractions>
             </location>
           <Chord>
             <durationType>eighth</durationType>
@@ -9969,15 +9798,6 @@
               <string>2</string>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
           </voice>
         <voice>
           <Chord>
@@ -10093,10 +9913,7 @@
           </voice>
         <voice>
           <location>
-            <fractions>1/4</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
+            <fractions>3/8</fractions>
             </location>
           <Chord>
             <durationType>quarter</durationType>
@@ -10285,19 +10102,7 @@
           </voice>
         <voice>
           <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
+            <fractions>5/8</fractions>
             </location>
           <Chord>
             <durationType>quarter</durationType>
@@ -10417,10 +10222,7 @@
           </voice>
         <voice>
           <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/4</fractions>
+            <fractions>3/8</fractions>
             </location>
           <Chord>
             <durationType>quarter</durationType>
