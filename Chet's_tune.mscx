@@ -147,42 +147,18 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <Chord>
+          <Rest>
             <durationType>quarter</durationType>
-            <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <fret>8</fret>
-              <string>4</string>
-              </Note>
-            </Chord>
-          <Chord>
+            </Rest>
+          <Rest>
             <durationType>quarter</durationType>
-            <Note>
-              <pitch>58</pitch>
-              <tpc>24</tpc>
-              <fret>8</fret>
-              <string>3</string>
-              </Note>
-            </Chord>
-          <Chord>
+            </Rest>
+          <Rest>
             <durationType>quarter</durationType>
-            <Note>
-              <pitch>46</pitch>
-              <tpc>24</tpc>
-              <fret>6</fret>
-              <string>5</string>
-              </Note>
-            </Chord>
-          <Chord>
+            </Rest>
+          <Rest>
             <durationType>quarter</durationType>
-            <Note>
-              <pitch>58</pitch>
-              <tpc>24</tpc>
-              <fret>8</fret>
-              <string>3</string>
-              </Note>
-            </Chord>
+            </Rest>
           </voice>
         <voice>
           <FretDiagram>
@@ -296,42 +272,18 @@
               </string>
             <barre>1</barre>
             </FretDiagram>
-          <Chord>
+          <Rest>
             <durationType>quarter</durationType>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              <fret>7</fret>
-              <string>4</string>
-              </Note>
-            </Chord>
-          <Chord>
+            </Rest>
+          <Rest>
             <durationType>quarter</durationType>
-            <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              <fret>7</fret>
-              <string>3</string>
-              </Note>
-            </Chord>
-          <Chord>
+            </Rest>
+          <Rest>
             <durationType>quarter</durationType>
-            <Note>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
-              <fret>5</fret>
-              <string>5</string>
-              </Note>
-            </Chord>
-          <Chord>
+            </Rest>
+          <Rest>
             <durationType>quarter</durationType>
-            <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              <fret>7</fret>
-              <string>3</string>
-              </Note>
-            </Chord>
+            </Rest>
           </voice>
         <voice>
           <Rest>
@@ -7346,6 +7298,39 @@
             </Chord>
           </voice>
         </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Chord symbols are for a rhythm player, except for the outro.
+
+29 - I start with index finger on the first string, ring on the second and hold both 3rd and 4th with middle one.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>
