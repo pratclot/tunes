@@ -50,6 +50,7 @@
           <stemsDown>1</stemsDown>
           <stemsThrough>0</stemsThrough>
           <upsideDown>0</upsideDown>
+          <showTabFingering>1</showTabFingering>
           <useNumbers>1</useNumbers>
           </StaffType>
         <defaultClef>G8vb</defaultClef>
@@ -149,7 +150,7 @@
           <Tempo>
             <tempo>3.6666666666666665</tempo>
             <followText>1</followText>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 220</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 220</b></text>
             </Tempo>
           <Rest>
             <durationType>measure</durationType>
@@ -395,8 +396,29 @@
               </Note>
             </Chord>
           <Rest>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
             </Rest>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <fret>3</fret>
+              <string>0</string>
+              <Spanner type="Glissando">
+                <Glissando>
+                  <diagonal>1</diagonal>
+                  <anchor>3</anchor>
+                  </Glissando>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    <fractions>-7/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       <Measure>
@@ -493,6 +515,14 @@
               <tpc>17</tpc>
               <fret>5</fret>
               <string>0</string>
+              <Spanner type="Glissando">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    <fractions>7/8</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
               </Note>
             </Chord>
           <Rest>
@@ -3500,6 +3530,10 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Fingering>
+                <style>RH Guitar Fingering</style>
+                <text>p</text>
+                </Fingering>
               <pitch>48</pitch>
               <tpc>14</tpc>
               <fret>3</fret>
@@ -3509,6 +3543,10 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Fingering>
+                <style>RH Guitar Fingering</style>
+                <text>i</text>
+                </Fingering>
               <pitch>52</pitch>
               <tpc>18</tpc>
               <fret>2</fret>
@@ -3518,6 +3556,10 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Fingering>
+                <style>RH Guitar Fingering</style>
+                <text>p</text>
+                </Fingering>
               <pitch>52</pitch>
               <tpc>18</tpc>
               <fret>2</fret>
@@ -3527,6 +3569,10 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Fingering>
+                <style>RH Guitar Fingering</style>
+                <text>m</text>
+                </Fingering>
               <pitch>55</pitch>
               <tpc>15</tpc>
               <fret>0</fret>
@@ -5640,6 +5686,34 @@
         </Measure>
       <Measure>
         <voice>
+          <FretDiagram>
+            <fretOffset>7</fretOffset>
+            <frets>4</frets>
+            <Harmony>
+              <root>14</root>
+              <name>+</name>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="3">
+                <dot fret="2">normal</dot>
+                </string>
+              <string no="4">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="3">
+              <dot>2</dot>
+              </string>
+            <string no="4">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -5702,9 +5776,9 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <fret>8</fret>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <fret>9</fret>
               <string>2</string>
               </Note>
             <Note>
@@ -5720,9 +5794,9 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <fret>8</fret>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <fret>9</fret>
               <string>2</string>
               </Note>
             <Note>
@@ -10825,6 +10899,7 @@ Odell sounds just like Chet - clean, simple and terribly hard to reproduce!
 30-45 - The solo transcription is messy (just like all my tabs!).
 
 53 - Sounds like there is more than one strum, so I put something close enough for my ear.
+Do the first one with p-i-m, and then the remaining chord.
 
 74 - I think I hear thumbstyle picking here.
 
