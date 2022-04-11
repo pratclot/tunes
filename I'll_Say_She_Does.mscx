@@ -259,7 +259,7 @@
           <Tempo>
             <tempo>2.8333333333333335</tempo>
             <followText>1</followText>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 170</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 170</b></text>
             </Tempo>
           <Rest>
             <durationType>quarter</durationType>
@@ -6437,9 +6437,9 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
-              <fret>14</fret>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <fret>12</fret>
               <string>2</string>
               </Note>
             <Note>
@@ -6493,9 +6493,9 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
-              <fret>14</fret>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <fret>12</fret>
               <string>2</string>
               </Note>
             <Note>
@@ -8012,21 +8012,29 @@ https://www.youtube.com/watch?v=KD4XjAU28F0 &lt;--- has a comment from me!
 https://www.youtube.com/watch?v=ojrNH4BYf7U &lt;--- higher quality
 https://www.youtube.com/watch?v=IBgZl8uZh7s
 
-28-29 Sometimes I cannot hear Chet's part, so please forgive me
-28-31 I cannot grasp Jerry's rolls as well! It's possible to see the left hand position though. The rolls are
+28-29 - Sometimes I cannot hear Chet's part, so please forgive me
+
+28-31 - I cannot grasp Jerry's rolls as well! It's possible to see the left hand position though. The rolls are
 not that hard actually, on tunes like All I Ever Need Is You or Jerry's Breakdown there is a quite an understandable
 pattern. You just have to practice it, that is. If you manage to learn to do them without the index finger like Jerry
 did sometimes, it will even be easier
-33-34 I still have no clue how to make MuseScore work a Bigsby
-41 This is jazz, right?
-46 Jerry does not do the whole diminished form, he uses some pro trick!
-56-69 Jerry's solo mixes up major and minor scales together. Now, I know nothing about ad lib playing,
+
+33-34 - I still have no clue how to make MuseScore work a Bigsby
+
+41 - This is jazz, right?
+
+46 - Jerry does not do the whole diminished form, he uses some pro trick!
+
+56-69 - Jerry's solo mixes up major and minor scales together. Now, I know nothing about ad lib playing,
 but I cannot imagine ever being able to do that without laying it on paper first! Maybe that's how they got
 to sound better than anyone else!
-63 Take care here, I am not sure I got it right. In fact, be careful with any tab that comes from me!
-69-70 People left comments like &quot;look, Chet picked up right where Jerry left it!&quot; And I also thought, yea, sounds
+
+63 - Take care here, I am not sure I got it right. In fact, be careful with any tab that comes from me!
+
+69-70 - People left comments like &quot;look, Chet picked up right where Jerry left it!&quot; And I also thought, yea, sounds
 correct. And what do you know, it is exactly like that plus the thirds, and it is again the 7th note on the first beat!
-94 You have to figure out the ending!
+
+94 - You have to figure out the ending!
 
 I first learned this tune from a tab by Bruce Mock, and I may have got it from Jack Baker's frettedinstrumentsnyc.com.
 
@@ -11767,18 +11775,18 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>56</pitch>
-              <tpc>22</tpc>
-              <fret>6</fret>
-              <string>3</string>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              <fret>4</fret>
+              <string>2</string>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
-              <fret>4</fret>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <fret>7</fret>
               <string>2</string>
               </Note>
             </Chord>
