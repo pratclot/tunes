@@ -46,7 +46,7 @@
           <linesThrough>0</linesThrough>
           <minimStyle>1</minimStyle>
           <onLines>1</onLines>
-          <showRests>1</showRests>
+          <showRests>0</showRests>
           <stemsDown>1</stemsDown>
           <stemsThrough>0</stemsThrough>
           <upsideDown>0</upsideDown>
@@ -147,7 +147,7 @@
           <linesThrough>0</linesThrough>
           <minimStyle>1</minimStyle>
           <onLines>1</onLines>
-          <showRests>1</showRests>
+          <showRests>0</showRests>
           <stemsDown>1</stemsDown>
           <stemsThrough>0</stemsThrough>
           <upsideDown>0</upsideDown>
@@ -4749,18 +4749,12 @@
               <string>2</string>
               </Note>
             <Note>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              <fret>13</fret>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              <fret>12</fret>
               <string>1</string>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -4779,9 +4773,6 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -4794,6 +4785,27 @@
               <pitch>67</pitch>
               <tpc>15</tpc>
               <fret>8</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>6</fret>
+              <string>2</string>
+              </Note>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <fret>5</fret>
               <string>1</string>
               </Note>
             </Chord>
