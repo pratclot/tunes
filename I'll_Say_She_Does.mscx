@@ -151,6 +151,7 @@
           <stemsDown>1</stemsDown>
           <stemsThrough>0</stemsThrough>
           <upsideDown>0</upsideDown>
+          <showTabFingering>1</showTabFingering>
           <useNumbers>1</useNumbers>
           </StaffType>
         <defaultClef>G8vb</defaultClef>
@@ -8024,12 +8025,17 @@ https://www.youtube.com/watch?v=KD4XjAU28F0 &lt;--- has a comment from me!
 https://www.youtube.com/watch?v=ojrNH4BYf7U &lt;--- higher quality
 https://www.youtube.com/watch?v=IBgZl8uZh7s
 
-28-29 - Sometimes I cannot hear Chet's part, so please forgive me
+20-30 Jerry's rolls. They work really well without the index finger. Look at the right hand fingering notes
+as the pattern is quite easy:
+- first four notes (last note of measure 19 + 3 of measure 20) are played with just thumb and middle finger.
+The latter plucks string 2 twice, the former follows by alternating strings 4, then 3. Very simple
+- next you do an arpeggio on strings 1, 2 and 3, starting with the ring finger, and middle and thumb who already
+are comfortable on strings 2 and 3.
+- the last note is played with the ring finger, its purpose is to bridge you to the next roll. Also very easy.
 
-28-31 - I cannot grasp Jerry's rolls as well! It's possible to see the left hand position though. The rolls are
-not that hard actually, on tunes like All I Ever Need Is You or Jerry's Breakdown there is a quite an understandable
-pattern. You just have to practice it, that is. If you manage to learn to do them without the index finger like Jerry
-did sometimes, it will even be easier
+A little at loss with the last chord.
+
+28-29 - Sometimes I cannot hear Chet's part, so please forgive me
 
 33-34 - I still have no clue how to make MuseScore work a Bigsby
 
@@ -8724,9 +8730,28 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
               </Note>
             </Chord>
           </voice>
-        </Measure>
-      <Measure>
         <voice>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
           <FretDiagram>
             <fretOffset>4</fretOffset>
             <frets>4</frets>
@@ -8777,69 +8802,10 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              <fret>7</fret>
-              <string>3</string>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              <fret>5</fret>
-              <string>1</string>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <fret>5</fret>
-              <string>2</string>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              <fret>5</fret>
-              <string>1</string>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              <fret>7</fret>
-              <string>3</string>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              <fret>5</fret>
-              <string>1</string>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <fret>5</fret>
-              <string>2</string>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
+              <Fingering>
+                <style>RH Guitar Fingering</style>
+                <text>m</text>
+                </Fingering>
               <pitch>64</pitch>
               <tpc>18</tpc>
               <fret>5</fret>
@@ -8850,6 +8816,100 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
         </Measure>
       <Measure>
         <voice>
+          <Beam>
+            <StemDirection>up</StemDirection>
+            </Beam>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <Fingering>
+                <style>RH Guitar Fingering</style>
+                <text>p</text>
+                </Fingering>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <fret>7</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <Fingering>
+                <style>RH Guitar Fingering</style>
+                <text>m</text>
+                </Fingering>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <fret>5</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <Fingering>
+                <style>RH Guitar Fingering</style>
+                <text>p</text>
+                </Fingering>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <fret>5</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <Fingering>
+                <style>RH Guitar Fingering</style>
+                <text>a</text>
+                </Fingering>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <fret>0</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <Fingering>
+                <style>RH Guitar Fingering</style>
+                <text>m</text>
+                </Fingering>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <fret>5</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <Fingering>
+                <style>RH Guitar Fingering</style>
+                <text>p</text>
+                </Fingering>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <fret>5</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <Fingering>
+                <style>RH Guitar Fingering</style>
+                <text>a</text>
+                </Fingering>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <fret>0</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
           <FretDiagram>
             <fretOffset>4</fretOffset>
             <frets>4</frets>
@@ -8874,7 +8934,7 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
                 <dot fret="2">normal</dot>
                 </string>
               <string no="5">
-                <marker>cross</marker>
+                <marker>circle</marker>
                 </string>
               </fretDiagram>
             <string no="0">
@@ -8893,12 +8953,25 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
               <dot>2</dot>
               </string>
             <string no="5">
-              <marker>88</marker>
+              <marker>79</marker>
               </string>
             </FretDiagram>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>6</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
               <fret>7</fret>
@@ -8926,6 +8999,15 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <fret>0</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
               <fret>6</fret>
@@ -8935,36 +9017,27 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               <fret>7</fret>
-              <string>3</string>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <fret>6</fret>
-              <string>1</string>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <fret>5</fret>
               <string>2</string>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <fret>6</fret>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <fret>0</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <fret>8</fret>
               <string>1</string>
               </Note>
             </Chord>
@@ -8996,7 +9069,7 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
                 <dot fret="1">normal</dot>
                 </string>
               <string no="5">
-                <marker>cross</marker>
+                <marker>circle</marker>
                 </string>
               </fretDiagram>
             <string no="0">
@@ -9015,7 +9088,7 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
               <dot>1</dot>
               </string>
             <string no="5">
-              <marker>88</marker>
+              <marker>79</marker>
               </string>
             </FretDiagram>
           <Chord>
@@ -9048,19 +9121,10 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <fret>8</fret>
-              <string>1</string>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <fret>10</fret>
-              <string>3</string>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <fret>0</fret>
+              <string>0</string>
               </Note>
             </Chord>
           <Chord>
@@ -9084,12 +9148,15 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <fret>8</fret>
-              <string>1</string>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <fret>0</fret>
+              <string>0</string>
               </Note>
             </Chord>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -9173,7 +9240,7 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
                 <dot fret="2">normal</dot>
                 </string>
               <string no="5">
-                <marker>cross</marker>
+                <marker>circle</marker>
                 </string>
               </fretDiagram>
             <string no="0">
@@ -9192,7 +9259,7 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
               <dot>2</dot>
               </string>
             <string no="5">
-              <marker>88</marker>
+              <marker>79</marker>
               </string>
             </FretDiagram>
           <Chord>
@@ -9225,19 +9292,10 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <fret>6</fret>
-              <string>1</string>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              <fret>7</fret>
-              <string>3</string>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <fret>0</fret>
+              <string>0</string>
               </Note>
             </Chord>
           <Chord>
@@ -9261,9 +9319,65 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <fret>6</fret>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <fret>0</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <FretDiagram>
+            <fretOffset>4</fretOffset>
+            <frets>4</frets>
+            <Harmony>
+              <root>18</root>
+              <name>7</name>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="0">
+                <marker>cross</marker>
+                </string>
+              <string no="1">
+                <marker>cross</marker>
+                </string>
+              <string no="2">
+                <dot fret="2">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="4">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="5">
+                <marker>circle</marker>
+                </string>
+              </fretDiagram>
+            <string no="0">
+              <marker>88</marker>
+              </string>
+            <string no="1">
+              <marker>88</marker>
+              </string>
+            <string no="2">
+              <dot>2</dot>
+              </string>
+            <string no="3">
+              <dot>3</dot>
+              </string>
+            <string no="4">
+              <dot>1</dot>
+              </string>
+            <string no="5">
+              <marker>79</marker>
+              </string>
+            </FretDiagram>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <fret>5</fret>
               <string>1</string>
               </Note>
             </Chord>
@@ -9303,17 +9417,8 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
-              <fret>5</fret>
-              <string>1</string>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>56</pitch>
-              <tpc>22</tpc>
-              <fret>6</fret>
-              <string>3</string>
+              <fret>0</fret>
+              <string>0</string>
               </Note>
             </Chord>
           <Chord>
@@ -9339,14 +9444,10 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
-              <fret>5</fret>
-              <string>1</string>
+              <fret>0</fret>
+              <string>0</string>
               </Note>
             </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
           <FretDiagram>
             <fretOffset>7</fretOffset>
             <frets>4</frets>
@@ -9372,7 +9473,7 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
                 <dot fret="3">normal</dot>
                 </string>
               <string no="5">
-                <marker>cross</marker>
+                <marker>circle</marker>
                 </string>
               </fretDiagram>
             <string no="0">
@@ -9391,72 +9492,9 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
               <dot>3</dot>
               </string>
             <string no="5">
-              <marker>88</marker>
+              <marker>79</marker>
               </string>
             </FretDiagram>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <fret>10</fret>
-              <string>3</string>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
-              <fret>10</fret>
-              <string>1</string>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              <fret>9</fret>
-              <string>2</string>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
-              <fret>10</fret>
-              <string>1</string>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <fret>10</fret>
-              <string>3</string>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
-              <fret>10</fret>
-              <string>1</string>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              <fret>9</fret>
-              <string>2</string>
-              </Note>
-            </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -9470,6 +9508,69 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
         </Measure>
       <Measure>
         <voice>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <fret>10</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <fret>10</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <fret>9</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <fret>0</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <fret>10</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <fret>9</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <fret>0</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
           <FretDiagram>
             <fretOffset>5</fretOffset>
             <frets>4</frets>
@@ -9495,7 +9596,7 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
                 <dot fret="3">normal</dot>
                 </string>
               <string no="5">
-                <marker>cross</marker>
+                <marker>circle</marker>
                 </string>
               </fretDiagram>
             <string no="0">
@@ -9514,72 +9615,9 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
               <dot>3</dot>
               </string>
             <string no="5">
-              <marker>88</marker>
+              <marker>79</marker>
               </string>
             </FretDiagram>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              <fret>7</fret>
-              <string>3</string>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <fret>8</fret>
-              <string>1</string>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>61</pitch>
-              <tpc>21</tpc>
-              <fret>6</fret>
-              <string>2</string>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <fret>8</fret>
-              <string>1</string>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              <fret>7</fret>
-              <string>3</string>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <fret>8</fret>
-              <string>1</string>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>61</pitch>
-              <tpc>21</tpc>
-              <fret>6</fret>
-              <string>2</string>
-              </Note>
-            </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -9593,6 +9631,75 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
         </Measure>
       <Measure>
         <voice>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <fret>7</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <fret>8</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>6</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <fret>0</fret>
+              <string>0</string>
+              </Note>
+            <Note>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <fret>8</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <fret>8</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>6</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <fret>0</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
           <FretDiagram>
             <fretOffset>4</fretOffset>
             <frets>4</frets>
@@ -9618,7 +9725,7 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
                 <dot fret="3">normal</dot>
                 </string>
               <string no="5">
-                <marker>cross</marker>
+                <marker>circle</marker>
                 </string>
               </fretDiagram>
             <string no="0">
@@ -9637,7 +9744,7 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
               <dot>3</dot>
               </string>
             <string no="5">
-              <marker>88</marker>
+              <marker>79</marker>
               </string>
             </FretDiagram>
           <Chord>
@@ -9649,6 +9756,19 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
               <string>1</string>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <fret>0</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -9670,10 +9790,10 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
-              <fret>7</fret>
-              <string>1</string>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <fret>0</fret>
+              <string>0</string>
               </Note>
             </Chord>
           <Chord>
@@ -9688,15 +9808,21 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
-              <fret>7</fret>
-              <string>1</string>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <fret>5</fret>
+              <string>2</string>
               </Note>
             </Chord>
-          <Rest>
+          <Chord>
             <durationType>eighth</durationType>
-            </Rest>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <fret>0</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -9713,10 +9839,10 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <fret>8</fret>
-              <string>1</string>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <fret>0</fret>
+              <string>3</string>
               </Note>
             </Chord>
           <Chord>
@@ -9740,10 +9866,10 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <fret>8</fret>
-              <string>1</string>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <fret>0</fret>
+              <string>0</string>
               </Note>
             </Chord>
           <Chord>
@@ -9758,28 +9884,21 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
-              <fret>7</fret>
-              <string>1</string>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <fret>5</fret>
+              <string>2</string>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
-              <fret>7</fret>
-              <string>1</string>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <fret>0</fret>
+              <string>0</string>
               </Note>
             </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
           <FretDiagram>
             <fretOffset>2</fretOffset>
             <frets>4</frets>
@@ -9805,7 +9924,7 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
                 <dot fret="3">normal</dot>
                 </string>
               <string no="5">
-                <marker>cross</marker>
+                <marker>circle</marker>
                 </string>
               </fretDiagram>
             <string no="0">
@@ -9824,9 +9943,22 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
               <dot>3</dot>
               </string>
             <string no="5">
-              <marker>88</marker>
+              <marker>79</marker>
               </string>
             </FretDiagram>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>6</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Rest>
             <durationType>half</durationType>
             </Rest>
@@ -11680,15 +11812,9 @@ Then I forgot how to play it, discovered this amazing video and had to imitate t
               <string>1</string>
               </Note>
             </Chord>
-          <Chord>
+          <Rest>
             <durationType>eighth</durationType>
-            <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <fret>6</fret>
-              <string>1</string>
-              </Note>
-            </Chord>
+            </Rest>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
