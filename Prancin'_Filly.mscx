@@ -1,0 +1,5902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<museScore version="3.02">
+  <programVersion>3.6.2</programVersion>
+  <programRevision></programRevision>
+  <Score>
+    <LayerTag id="0" tag="default"></LayerTag>
+    <currentLayer>0</currentLayer>
+    <Division>480</Division>
+    <Style>
+      <pageWidth>8.27</pageWidth>
+      <pageHeight>11.69</pageHeight>
+      <enableVerticalSpread>1</enableVerticalSpread>
+      <Spatium>1.74978</Spatium>
+      </Style>
+    <showInvisible>1</showInvisible>
+    <showUnprintable>1</showUnprintable>
+    <showFrames>1</showFrames>
+    <showMargins>0</showMargins>
+    <metaTag name="arranger"></metaTag>
+    <metaTag name="composer">Chet's Dad</metaTag>
+    <metaTag name="copyright"></metaTag>
+    <metaTag name="creationDate">2022-06-18</metaTag>
+    <metaTag name="lyricist"></metaTag>
+    <metaTag name="movementNumber"></metaTag>
+    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="platform">Linux</metaTag>
+    <metaTag name="poet"></metaTag>
+    <metaTag name="source"></metaTag>
+    <metaTag name="translator"></metaTag>
+    <metaTag name="workNumber"></metaTag>
+    <metaTag name="workTitle">Prancin' Filly</metaTag>
+    <Order id="orchestral" customized="1">
+      <name>Orchestral</name>
+      <instrument id="electric-guitar-tablature">
+        <family id="guitars">Guitars</family>
+        </instrument>
+      <section id="woodwind" brackets="true" showSystemMarkings="true" barLineSpan="true" thinBrackets="true">
+        <family>flutes</family>
+        <family>oboes</family>
+        <family>clarinets</family>
+        <family>saxophones</family>
+        <family>bassoons</family>
+        <unsorted group="woodwinds"/>
+        </section>
+      <section id="brass" brackets="true" showSystemMarkings="false" barLineSpan="true" thinBrackets="true">
+        <family>horns</family>
+        <family>trumpets</family>
+        <family>cornets</family>
+        <family>flugelhorns</family>
+        <family>trombones</family>
+        <family>tubas</family>
+        </section>
+      <section id="timpani" brackets="true" showSystemMarkings="false" barLineSpan="true" thinBrackets="true">
+        <family>timpani</family>
+        </section>
+      <section id="percussion" brackets="true" showSystemMarkings="false" barLineSpan="true" thinBrackets="true">
+        <family>keyboard-percussion</family>
+        <family>drums</family>
+        <family>unpitched-metal-percussion</family>
+        <family>unpitched-wooden-percussion</family>
+        <family>other-percussion</family>
+        </section>
+      <family>keyboards</family>
+      <family>harps</family>
+      <family>organs</family>
+      <family>synths</family>
+      <section id="plucked-strings" brackets="true" showSystemMarkings="false" barLineSpan="true" thinBrackets="true">
+        <family>plucked-strings</family>
+        </section>
+      <soloists/>
+      <section id="voices" brackets="true" showSystemMarkings="false" barLineSpan="false" thinBrackets="true">
+        <family>voices</family>
+        </section>
+      <section id="strings" brackets="true" showSystemMarkings="true" barLineSpan="true" thinBrackets="true">
+        <family>orchestral-strings</family>
+        </section>
+      <unsorted/>
+      </Order>
+    <Part>
+      <Staff id="1">
+        <StaffType group="tablature">
+          <name>tab6StrCommon</name>
+          <lines>6</lines>
+          <lineDistance>1.5</lineDistance>
+          <timesig>0</timesig>
+          <durations>0</durations>
+          <durationFontName>MuseScore Tab Modern</durationFontName>
+          <durationFontSize>15</durationFontSize>
+          <durationFontY>0</durationFontY>
+          <fretFontName>MuseScore Tab Serif</fretFontName>
+          <fretFontSize>9</fretFontSize>
+          <fretFontY>0</fretFontY>
+          <linesThrough>0</linesThrough>
+          <minimStyle>1</minimStyle>
+          <onLines>1</onLines>
+          <showRests>0</showRests>
+          <stemsDown>1</stemsDown>
+          <stemsThrough>0</stemsThrough>
+          <upsideDown>0</upsideDown>
+          <useNumbers>1</useNumbers>
+          </StaffType>
+        <defaultClef>G8vb</defaultClef>
+        </Staff>
+      <trackName>Electric Guitar (Tablature)</trackName>
+      <Instrument id="electric-guitar-tablature">
+        <longName>Electric Guitar</longName>
+        <shortName>El. Guit.</shortName>
+        <trackName>Electric Guitar (Tablature)</trackName>
+        <minPitchP>40</minPitchP>
+        <maxPitchP>88</maxPitchP>
+        <minPitchA>40</minPitchA>
+        <maxPitchA>86</maxPitchA>
+        <instrumentId>pluck.guitar.electric</instrumentId>
+        <clef>G8vb</clef>
+        <singleNoteDynamics>0</singleNoteDynamics>
+        <StringData>
+          <frets>24</frets>
+          <string>40</string>
+          <string>45</string>
+          <string>50</string>
+          <string>55</string>
+          <string>59</string>
+          <string>64</string>
+          </StringData>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="staccatissimo">
+          <velocity>100</velocity>
+          <gateTime>33</gateTime>
+          </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="portato">
+          <velocity>100</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="marcato">
+          <velocity>120</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="sforzato">
+          <velocity>150</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="sforzatoStaccato">
+          <velocity>150</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="marcatoStaccato">
+          <velocity>120</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="marcatoTenuto">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Channel name="open">
+          <program value="27"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="harmonics">
+          <program value="31"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="distortion">
+          <program value="30"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="overdriven">
+          <program value="29"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="mute">
+          <program value="28"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="jazz">
+          <program value="26"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="harmony">
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
+        </Instrument>
+      </Part>
+    <Staff id="1">
+      <VBox>
+        <height>10</height>
+        <Text>
+          <style>Title</style>
+          <text>Prancin' Filly</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Chet's Dad</text>
+          </Text>
+        </VBox>
+      <Measure>
+        <voice>
+          <TimeSig>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <startRepeat/>
+        <Marker>
+          <style>Repeat Text Left</style>
+          <text><sym>segno</sym></text>
+          <label>segno</label>
+          </Marker>
+        <voice>
+          <FretDiagram>
+            <frets>4</frets>
+            <Harmony>
+              <root>12</root>
+              <name>m</name>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="4">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>1</dot>
+              </string>
+            <string no="2">
+              <dot>3</dot>
+              </string>
+            <string no="3">
+              <dot>3</dot>
+              </string>
+            <string no="4">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>46</pitch>
+              <tpc>12</tpc>
+              <fret>1</fret>
+              <string>4</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
+              <fret>0</fret>
+              <string>4</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>46</pitch>
+              <tpc>12</tpc>
+              <fret>1</fret>
+              <string>4</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <fret>3</fret>
+              <string>4</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>49</pitch>
+              <tpc>21</tpc>
+              <fret>4</fret>
+              <string>4</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <fret>3</fret>
+              <string>4</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>49</pitch>
+              <tpc>21</tpc>
+              <fret>4</fret>
+              <string>4</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>46</pitch>
+              <tpc>12</tpc>
+              <fret>1</fret>
+              <string>4</string>
+              </Note>
+            </Chord>
+          <FretDiagram>
+            <frets>4</frets>
+            <Harmony>
+              <root>13</root>
+              <name>7</name>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>3</dot>
+              </string>
+            <string no="2">
+              <dot>1</dot>
+              </string>
+            <string no="3">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <fret>3</fret>
+              <string>4</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>49</pitch>
+              <tpc>21</tpc>
+              <fret>4</fret>
+              <string>4</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <fret>3</fret>
+              <string>4</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>44</pitch>
+              <tpc>22</tpc>
+              <fret>4</fret>
+              <string>5</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>41</pitch>
+              <tpc>13</tpc>
+              <fret>1</fret>
+              <string>5</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>41</pitch>
+              <tpc>13</tpc>
+              <fret>1</fret>
+              <string>5</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <FretDiagram>
+            <frets>4</frets>
+            <Harmony>
+              <root>12</root>
+              <name>m</name>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="4">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>1</dot>
+              </string>
+            <string no="2">
+              <dot>3</dot>
+              </string>
+            <string no="3">
+              <dot>3</dot>
+              </string>
+            <string no="4">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>46</pitch>
+              <tpc>12</tpc>
+              <fret>1</fret>
+              <string>4</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
+              <fret>0</fret>
+              <string>4</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>46</pitch>
+              <tpc>12</tpc>
+              <fret>1</fret>
+              <string>4</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <fret>3</fret>
+              <string>4</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>49</pitch>
+              <tpc>21</tpc>
+              <fret>4</fret>
+              <string>4</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <fret>3</fret>
+              <string>4</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>49</pitch>
+              <tpc>21</tpc>
+              <fret>4</fret>
+              <string>4</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>51</pitch>
+              <tpc>11</tpc>
+              <fret>1</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <FretDiagram>
+            <frets>4</frets>
+            <Harmony>
+              <root>13</root>
+              <name>7</name>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>3</dot>
+              </string>
+            <string no="2">
+              <dot>1</dot>
+              </string>
+            <string no="3">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <fret>3</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>49</pitch>
+              <tpc>21</tpc>
+              <fret>4</fret>
+              <string>4</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>51</pitch>
+              <tpc>11</tpc>
+              <fret>1</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <FretDiagram>
+            <frets>4</frets>
+            <Harmony>
+              <root>12</root>
+              <name>m</name>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="4">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>1</dot>
+              </string>
+            <string no="2">
+              <dot>3</dot>
+              </string>
+            <string no="3">
+              <dot>3</dot>
+              </string>
+            <string no="4">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <fret>3</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>51</pitch>
+              <tpc>11</tpc>
+              <fret>1</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <fret>3</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>56</pitch>
+              <tpc>22</tpc>
+              <fret>1</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <FretDiagram>
+            <frets>4</frets>
+            <Harmony>
+              <root>12</root>
+              <name>m</name>
+              <base>10</base>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="0">
+                <dot fret="4">normal</dot>
+                </string>
+              <string no="1">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="4">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>4</dot>
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>1</dot>
+              </string>
+            <string no="2">
+              <dot>3</dot>
+              </string>
+            <string no="3">
+              <dot>3</dot>
+              </string>
+            <string no="4">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <fret>3</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>56</pitch>
+              <tpc>22</tpc>
+              <fret>1</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <fret>3</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>56</pitch>
+              <tpc>22</tpc>
+              <fret>1</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <FretDiagram>
+            <fretOffset>1</fretOffset>
+            <frets>4</frets>
+            <Harmony>
+              <root>20</root>
+              <name>7</name>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>3</dot>
+              </string>
+            <string no="2">
+              <dot>1</dot>
+              </string>
+            <string no="3">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <fret>3</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>51</pitch>
+              <tpc>11</tpc>
+              <fret>1</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <fret>3</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>51</pitch>
+              <tpc>11</tpc>
+              <fret>1</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <FretDiagram>
+            <frets>4</frets>
+            <Harmony>
+              <root>13</root>
+              <name>7</name>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>3</dot>
+              </string>
+            <string no="2">
+              <dot>1</dot>
+              </string>
+            <string no="3">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>49</pitch>
+              <tpc>21</tpc>
+              <fret>4</fret>
+              <string>4</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>49</pitch>
+              <tpc>21</tpc>
+              <fret>4</fret>
+              <string>4</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>51</pitch>
+              <tpc>11</tpc>
+              <fret>1</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <endRepeat>2</endRepeat>
+        <voice>
+          <FretDiagram>
+            <frets>4</frets>
+            <Harmony>
+              <root>13</root>
+              <name>7</name>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>3</dot>
+              </string>
+            <string no="2">
+              <dot>1</dot>
+              </string>
+            <string no="3">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Spanner type="Volta">
+            <Volta>
+              <endHookType>1</endHookType>
+              <beginText>1.</beginText>
+              <endings>1</endings>
+              </Volta>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <fret>3</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>51</pitch>
+              <tpc>11</tpc>
+              <fret>1</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <fret>3</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>51</pitch>
+              <tpc>11</tpc>
+              <fret>1</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>49</pitch>
+              <tpc>21</tpc>
+              <fret>4</fret>
+              <string>4</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <fret>3</fret>
+              <string>4</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <FretDiagram>
+            <frets>4</frets>
+            <Harmony>
+              <root>12</root>
+              <name>m</name>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="4">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>1</dot>
+              </string>
+            <string no="2">
+              <dot>3</dot>
+              </string>
+            <string no="3">
+              <dot>3</dot>
+              </string>
+            <string no="4">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>46</pitch>
+              <tpc>12</tpc>
+              <fret>1</fret>
+              <string>4</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <FretDiagram>
+            <frets>4</frets>
+            <Harmony>
+              <root>13</root>
+              <name>7</name>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>3</dot>
+              </string>
+            <string no="2">
+              <dot>1</dot>
+              </string>
+            <string no="3">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>41</pitch>
+              <tpc>13</tpc>
+              <fret>1</fret>
+              <string>5</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <FretDiagram>
+            <frets>4</frets>
+            <Harmony>
+              <root>13</root>
+              <name>7</name>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>3</dot>
+              </string>
+            <string no="2">
+              <dot>1</dot>
+              </string>
+            <string no="3">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Spanner type="Volta">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
+          <Spanner type="Volta">
+            <Volta>
+              <beginText>2.</beginText>
+              <endings>2</endings>
+              </Volta>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <fret>3</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>51</pitch>
+              <tpc>11</tpc>
+              <fret>1</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <fret>3</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>51</pitch>
+              <tpc>11</tpc>
+              <fret>1</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>49</pitch>
+              <tpc>21</tpc>
+              <fret>4</fret>
+              <string>4</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <fret>3</fret>
+              <string>4</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <FretDiagram>
+            <frets>4</frets>
+            <Harmony>
+              <root>12</root>
+              <name>m</name>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="4">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>1</dot>
+              </string>
+            <string no="2">
+              <dot>3</dot>
+              </string>
+            <string no="3">
+              <dot>3</dot>
+              </string>
+            <string no="4">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>46</pitch>
+              <tpc>12</tpc>
+              <fret>1</fret>
+              <string>4</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <fret>3</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
+              <fret>4</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <FretDiagram>
+            <frets>4</frets>
+            <Harmony>
+              <root>21</root>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="4">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="4">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>4</dot>
+              </string>
+            <string no="2">
+              <dot>3</dot>
+              </string>
+            <string no="3">
+              <dot>1</dot>
+              </string>
+            <string no="4">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Spanner type="Volta">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>56</pitch>
+              <tpc>22</tpc>
+              <fret>6</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <fret>3</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
+              <fret>4</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>56</pitch>
+              <tpc>22</tpc>
+              <fret>6</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <fret>3</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <FretDiagram>
+            <fretOffset>3</fretOffset>
+            <frets>4</frets>
+            <Harmony>
+              <root>10</root>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>3</dot>
+              </string>
+            <string no="2">
+              <dot>3</dot>
+              </string>
+            <string no="3">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <fret>3</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <Marker>
+          <style>Repeat Text Right</style>
+          <text>To Coda</text>
+          <label>coda</label>
+          </Marker>
+        <voice>
+          <FretDiagram>
+            <fretOffset>3</fretOffset>
+            <frets>4</frets>
+            <Harmony>
+              <root>10</root>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>3</dot>
+              </string>
+            <string no="2">
+              <dot>3</dot>
+              </string>
+            <string no="3">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <fret>3</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>56</pitch>
+              <tpc>22</tpc>
+              <fret>1</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <fret>3</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>56</pitch>
+              <tpc>22</tpc>
+              <fret>1</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <fret>3</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <fret>1</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <FretDiagram>
+            <fretOffset>3</fretOffset>
+            <frets>4</frets>
+            <Harmony>
+              <root>21</root>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="4">
+                <dot fret="3">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>1</dot>
+              </string>
+            <string no="2">
+              <dot>3</dot>
+              </string>
+            <string no="3">
+              <dot>3</dot>
+              </string>
+            <string no="4">
+              <dot>3</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>2</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>6</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <FretDiagram>
+            <fretOffset>3</fretOffset>
+            <frets>4</frets>
+            <Harmony>
+              <root>21</root>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="4">
+                <dot fret="3">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>1</dot>
+              </string>
+            <string no="2">
+              <dot>3</dot>
+              </string>
+            <string no="3">
+              <dot>3</dot>
+              </string>
+            <string no="4">
+              <dot>3</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>6</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>6</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <FretDiagram>
+            <frets>4</frets>
+            <Harmony>
+              <root>13</root>
+              <name>7</name>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>3</dot>
+              </string>
+            <string no="2">
+              <dot>1</dot>
+              </string>
+            <string no="3">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>6</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <fret>4</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <FretDiagram>
+            <frets>4</frets>
+            <Harmony>
+              <root>12</root>
+              <name>m</name>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="4">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>1</dot>
+              </string>
+            <string no="2">
+              <dot>3</dot>
+              </string>
+            <string no="3">
+              <dot>3</dot>
+              </string>
+            <string no="4">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <fret>5</fret>
+              <string>1</string>
+              </Note>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              <fret>6</fret>
+              <string>0</string>
+              </Note>
+            <ChordLine>
+              <subtype>2</subtype>
+              <straight>1</straight>
+              </ChordLine>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <FretDiagram>
+            <frets>4</frets>
+            <Harmony>
+              <root>12</root>
+              <name>m</name>
+              <base>10</base>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="0">
+                <dot fret="4">normal</dot>
+                </string>
+              <string no="1">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="4">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>4</dot>
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>1</dot>
+              </string>
+            <string no="2">
+              <dot>3</dot>
+              </string>
+            <string no="3">
+              <dot>3</dot>
+              </string>
+            <string no="4">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <fret>8</fret>
+              <string>1</string>
+              </Note>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>21</tpc>
+              <fret>9</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <FretDiagram>
+            <fretOffset>1</fretOffset>
+            <frets>4</frets>
+            <Harmony>
+              <root>20</root>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>3</dot>
+              </string>
+            <string no="2">
+              <dot>3</dot>
+              </string>
+            <string no="3">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              <fret>6</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <fret>4</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>6</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <FretDiagram>
+            <fretOffset>3</fretOffset>
+            <frets>4</frets>
+            <Harmony>
+              <root>10</root>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>3</dot>
+              </string>
+            <string no="2">
+              <dot>3</dot>
+              </string>
+            <string no="3">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>6</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <FretDiagram>
+            <fretOffset>3</fretOffset>
+            <frets>4</frets>
+            <Harmony>
+              <root>21</root>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="4">
+                <dot fret="3">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>1</dot>
+              </string>
+            <string no="2">
+              <dot>3</dot>
+              </string>
+            <string no="3">
+              <dot>3</dot>
+              </string>
+            <string no="4">
+              <dot>3</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>6</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <startRepeat/>
+        <voice>
+          <FretDiagram>
+            <fretOffset>5</fretOffset>
+            <frets>4</frets>
+            <Harmony>
+              <root>11</root>
+              <name>m</name>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="4">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>1</dot>
+              </string>
+            <string no="2">
+              <dot>3</dot>
+              </string>
+            <string no="3">
+              <dot>3</dot>
+              </string>
+            <string no="4">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>51</pitch>
+              <tpc>11</tpc>
+              <fret>1</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <fret>0</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>51</pitch>
+              <tpc>11</tpc>
+              <fret>1</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <fret>3</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
+              <fret>4</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <fret>3</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
+              <fret>4</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>51</pitch>
+              <tpc>11</tpc>
+              <fret>1</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <FretDiagram>
+            <fretOffset>5</fretOffset>
+            <frets>4</frets>
+            <Harmony>
+              <root>12</root>
+              <name>7</name>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>3</dot>
+              </string>
+            <string no="2">
+              <dot>1</dot>
+              </string>
+            <string no="3">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <fret>3</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
+              <fret>4</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <fret>3</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>49</pitch>
+              <tpc>21</tpc>
+              <fret>4</fret>
+              <string>4</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>46</pitch>
+              <tpc>12</tpc>
+              <fret>1</fret>
+              <string>4</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>46</pitch>
+              <tpc>12</tpc>
+              <fret>1</fret>
+              <string>4</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <FretDiagram>
+            <fretOffset>5</fretOffset>
+            <frets>4</frets>
+            <Harmony>
+              <root>11</root>
+              <name>m</name>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="4">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>1</dot>
+              </string>
+            <string no="2">
+              <dot>3</dot>
+              </string>
+            <string no="3">
+              <dot>3</dot>
+              </string>
+            <string no="4">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>51</pitch>
+              <tpc>11</tpc>
+              <fret>1</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <fret>0</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>51</pitch>
+              <tpc>11</tpc>
+              <fret>1</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <fret>3</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
+              <fret>4</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <fret>3</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
+              <fret>4</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
+              <fret>1</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <FretDiagram>
+            <fretOffset>5</fretOffset>
+            <frets>4</frets>
+            <Harmony>
+              <root>12</root>
+              <name>7</name>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>3</dot>
+              </string>
+            <string no="2">
+              <dot>1</dot>
+              </string>
+            <string no="3">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <fret>3</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
+              <fret>4</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
+              <fret>1</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <FretDiagram>
+            <fretOffset>5</fretOffset>
+            <frets>4</frets>
+            <Harmony>
+              <root>11</root>
+              <name>m</name>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="4">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>1</dot>
+              </string>
+            <string no="2">
+              <dot>3</dot>
+              </string>
+            <string no="3">
+              <dot>3</dot>
+              </string>
+            <string no="4">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <fret>3</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
+              <fret>1</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <fret>3</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>2</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <FretDiagram>
+            <fretOffset>5</fretOffset>
+            <frets>4</frets>
+            <Harmony>
+              <root>11</root>
+              <name>m</name>
+              <base>21</base>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="0">
+                <dot fret="4">normal</dot>
+                </string>
+              <string no="1">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="4">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>4</dot>
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>1</dot>
+              </string>
+            <string no="2">
+              <dot>3</dot>
+              </string>
+            <string no="3">
+              <dot>3</dot>
+              </string>
+            <string no="4">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>2</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>2</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <FretDiagram>
+            <fretOffset>6</fretOffset>
+            <frets>4</frets>
+            <Harmony>
+              <root>19</root>
+              <name>7</name>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>3</dot>
+              </string>
+            <string no="2">
+              <dot>1</dot>
+              </string>
+            <string no="3">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <fret>3</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
+              <fret>1</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <fret>3</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
+              <fret>1</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <FretDiagram>
+            <fretOffset>5</fretOffset>
+            <frets>4</frets>
+            <Harmony>
+              <root>12</root>
+              <name>7</name>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>3</dot>
+              </string>
+            <string no="2">
+              <dot>1</dot>
+              </string>
+            <string no="3">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
+              <fret>4</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
+              <fret>4</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
+              <fret>1</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <endRepeat>2</endRepeat>
+        <voice>
+          <FretDiagram>
+            <fretOffset>5</fretOffset>
+            <frets>4</frets>
+            <Harmony>
+              <root>12</root>
+              <name>7</name>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>3</dot>
+              </string>
+            <string no="2">
+              <dot>1</dot>
+              </string>
+            <string no="3">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Spanner type="Volta">
+            <Volta>
+              <endHookType>1</endHookType>
+              <beginText>1.</beginText>
+              <endings>1</endings>
+              </Volta>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <fret>3</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>56</pitch>
+              <tpc>22</tpc>
+              <fret>1</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <fret>3</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>56</pitch>
+              <tpc>22</tpc>
+              <fret>1</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
+              <fret>4</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <fret>3</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <FretDiagram>
+            <fretOffset>5</fretOffset>
+            <frets>4</frets>
+            <Harmony>
+              <root>11</root>
+              <name>m</name>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="4">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>1</dot>
+              </string>
+            <string no="2">
+              <dot>3</dot>
+              </string>
+            <string no="3">
+              <dot>3</dot>
+              </string>
+            <string no="4">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>51</pitch>
+              <tpc>11</tpc>
+              <fret>1</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <FretDiagram>
+            <fretOffset>5</fretOffset>
+            <frets>4</frets>
+            <Harmony>
+              <root>12</root>
+              <name>7</name>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>3</dot>
+              </string>
+            <string no="2">
+              <dot>1</dot>
+              </string>
+            <string no="3">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>46</pitch>
+              <tpc>12</tpc>
+              <fret>1</fret>
+              <string>4</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <FretDiagram>
+            <fretOffset>5</fretOffset>
+            <frets>4</frets>
+            <Harmony>
+              <root>12</root>
+              <name>7</name>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>3</dot>
+              </string>
+            <string no="2">
+              <dot>1</dot>
+              </string>
+            <string no="3">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Spanner type="Volta">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
+          <Spanner type="Volta">
+            <Volta>
+              <beginText>2.</beginText>
+              <endings>2</endings>
+              </Volta>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <fret>3</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>56</pitch>
+              <tpc>22</tpc>
+              <fret>1</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <fret>3</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>56</pitch>
+              <tpc>22</tpc>
+              <fret>1</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
+              <fret>4</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <fret>3</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <FretDiagram>
+            <fretOffset>5</fretOffset>
+            <frets>4</frets>
+            <Harmony>
+              <root>11</root>
+              <name>m</name>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="4">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>1</dot>
+              </string>
+            <string no="2">
+              <dot>3</dot>
+              </string>
+            <string no="3">
+              <dot>3</dot>
+              </string>
+            <string no="4">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>51</pitch>
+              <tpc>11</tpc>
+              <fret>1</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <fret>3</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              <fret>4</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <FretDiagram>
+            <fretOffset>1</fretOffset>
+            <frets>4</frets>
+            <Harmony>
+              <root>20</root>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>3</dot>
+              </string>
+            <string no="2">
+              <dot>3</dot>
+              </string>
+            <string no="3">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Spanner type="Volta">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>6</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <fret>3</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              <fret>4</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>6</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <fret>3</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <FretDiagram>
+            <fretOffset>3</fretOffset>
+            <frets>4</frets>
+            <Harmony>
+              <root>21</root>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="4">
+                <dot fret="3">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>1</dot>
+              </string>
+            <string no="2">
+              <dot>3</dot>
+              </string>
+            <string no="3">
+              <dot>3</dot>
+              </string>
+            <string no="4">
+              <dot>3</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <FretDiagram>
+            <fretOffset>3</fretOffset>
+            <frets>4</frets>
+            <Harmony>
+              <root>21</root>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="4">
+                <dot fret="3">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>1</dot>
+              </string>
+            <string no="2">
+              <dot>3</dot>
+              </string>
+            <string no="3">
+              <dot>3</dot>
+              </string>
+            <string no="4">
+              <dot>3</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              <fret>4</fret>
+              <string>2</string>
+              </Note>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>6</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              <fret>4</fret>
+              <string>2</string>
+              </Note>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>6</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              <fret>4</fret>
+              <string>2</string>
+              </Note>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>6</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <FretDiagram>
+            <fretOffset>1</fretOffset>
+            <frets>4</frets>
+            <Harmony>
+              <root>20</root>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>3</dot>
+              </string>
+            <string no="2">
+              <dot>3</dot>
+              </string>
+            <string no="3">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>6</fret>
+              <string>2</string>
+              </Note>
+            <Note>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              <fret>7</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              <fret>7</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <fret>9</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <FretDiagram>
+            <fretOffset>1</fretOffset>
+            <frets>4</frets>
+            <Harmony>
+              <root>20</root>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>3</dot>
+              </string>
+            <string no="2">
+              <dot>3</dot>
+              </string>
+            <string no="3">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              <fret>11</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <fret>9</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              <fret>7</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <fret>9</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <FretDiagram>
+            <frets>4</frets>
+            <Harmony>
+              <root>12</root>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="4">
+                <dot fret="3">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>1</dot>
+              </string>
+            <string no="2">
+              <dot>3</dot>
+              </string>
+            <string no="3">
+              <dot>3</dot>
+              </string>
+            <string no="4">
+              <dot>3</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              <fret>11</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>21</tpc>
+              <fret>9</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <FretDiagram>
+            <fretOffset>5</fretOffset>
+            <frets>4</frets>
+            <Harmony>
+              <root>11</root>
+              <name>m</name>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="1">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="4">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>1</dot>
+              </string>
+            <string no="2">
+              <dot>3</dot>
+              </string>
+            <string no="3">
+              <dot>3</dot>
+              </string>
+            <string no="4">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>75</pitch>
+              <tpc>11</tpc>
+              <fret>11</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <FretDiagram>
+            <fretOffset>5</fretOffset>
+            <frets>4</frets>
+            <Harmony>
+              <root>11</root>
+              <name>m</name>
+              <base>21</base>
+              <align>center,top</align>
+              </Harmony>
+            <fretDiagram>
+              <string no="0">
+                <dot fret="4">normal</dot>
+                </string>
+              <string no="1">
+                <dot fret="1">normal</dot>
+                </string>
+              <string no="2">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="3">
+                <dot fret="3">normal</dot>
+                </string>
+              <string no="4">
+                <dot fret="2">normal</dot>
+                </string>
+              <barre start="0" end="-1">1</barre>
+              </fretDiagram>
+            <string no="0">
+              <dot>4</dot>
+              <dot>1</dot>
+              </string>
+            <string no="1">
+              <dot>1</dot>
+              </string>
+            <string no="2">
+              <dot>3</dot>
+              </string>
+            <string no="3">
+              <dot>3</dot>
+              </string>
+            <string no="4">
+              <dot>2</dot>
+              </string>
+            <barre>1</barre>
+            </FretDiagram>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>78</pitch>
+              <tpc>20</tpc>
+              <fret>14</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>75</pitch>
+              <tpc>11</tpc>
+              <fret>11</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>21</tpc>
+              <fret>9</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              <fret>11</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <fret>9</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              <fret>11</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <fret>9</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              <fret>11</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <fret>3</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <fret>2</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <fret>3</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <fret>1</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>2</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <fret>1</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>2</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <fret>3</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <fret>1</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>2</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <fret>1</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>56</pitch>
+              <tpc>22</tpc>
+              <fret>1</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <fret>3</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <fret>3</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <fret>3</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <fret>2</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <fret>3</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <fret>1</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>2</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <fret>1</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>2</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            <ChordLine>
+              <subtype>2</subtype>
+              <straight>1</straight>
+              </ChordLine>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>6</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>1</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            <ChordLine>
+              <subtype>2</subtype>
+              <straight>1</straight>
+              </ChordLine>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>6</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>1</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            <ChordLine>
+              <subtype>2</subtype>
+              <straight>1</straight>
+              </ChordLine>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>6</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <fret>4</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              <fret>6</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <fret>4</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              <fret>6</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <fret>4</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>6</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>6</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>6</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            <ChordLine>
+              <subtype>2</subtype>
+              <straight>1</straight>
+              </ChordLine>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>6</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>1</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>2</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <fret>3</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>56</pitch>
+              <tpc>22</tpc>
+              <fret>1</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <fret>3</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <fret>3</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <fret>2</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <fret>3</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <fret>1</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>2</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <fret>1</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>2</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <fret>3</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <fret>1</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>2</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <fret>1</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>56</pitch>
+              <tpc>22</tpc>
+              <fret>1</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <fret>3</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <fret>3</fret>
+              <string>3</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <fret>3</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <fret>2</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <fret>3</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <fret>1</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>2</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <fret>1</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>2</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>1</fret>
+              <string>0</string>
+              </Note>
+            <ChordLine>
+              <subtype>2</subtype>
+              <straight>1</straight>
+              </ChordLine>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>6</fret>
+              <string>1</string>
+              </Note>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>1</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>1</fret>
+              <string>0</string>
+              </Note>
+            <ChordLine>
+              <subtype>2</subtype>
+              <straight>1</straight>
+              </ChordLine>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>6</fret>
+              <string>1</string>
+              </Note>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>1</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <fret>4</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              <fret>6</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <fret>4</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              <fret>6</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <fret>4</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>6</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>6</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>6</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>6</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>6</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>6</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <fret>5</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <fret>3</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>6</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              <fret>7</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <fret>9</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>6</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              <fret>7</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <fret>9</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>6</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              <fret>7</fret>
+              <string>1</string>
+              </Note>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              <fret>6</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              <fret>8</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              <fret>7</fret>
+              <string>1</string>
+              </Note>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              <fret>6</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              <fret>7</fret>
+              <string>1</string>
+              </Note>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              <fret>6</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              <fret>8</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              <fret>7</fret>
+              <string>1</string>
+              </Note>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              <fret>6</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              <fret>8</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              <fret>7</fret>
+              <string>1</string>
+              </Note>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              <fret>6</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <fret>9</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>6</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>6</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>6</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>6</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>6</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <fret>4</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              <fret>6</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>21</tpc>
+              <fret>9</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <Jump>
+          <style>Repeat Text Right</style>
+          <text>D.S. al Coda</text>
+          <jumpTo>segno</jumpTo>
+          <playUntil>coda</playUntil>
+          <continueAt>codab</continueAt>
+          </Jump>
+        <voice>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              <fret>6</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <fret>4</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>6</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>6</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>6</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <fret>5</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <Marker>
+          <style>Repeat Text Left</style>
+          <text><sym>coda</sym></text>
+          <label>codab</label>
+          </Marker>
+        <voice>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>6</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>6</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>6</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <fret>4</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <fret>5</fret>
+              <string>1</string>
+              </Note>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              <fret>6</fret>
+              <string>0</string>
+              </Note>
+            <ChordLine>
+              <subtype>2</subtype>
+              <straight>1</straight>
+              </ChordLine>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <fret>8</fret>
+              <string>1</string>
+              </Note>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>21</tpc>
+              <fret>9</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              <fret>6</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <fret>4</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>6</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>6</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>6</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>6</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>6</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>6</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>6</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <fret>4</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <fret>5</fret>
+              <string>1</string>
+              </Note>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              <fret>6</fret>
+              <string>0</string>
+              </Note>
+            <ChordLine>
+              <subtype>2</subtype>
+              <straight>1</straight>
+              </ChordLine>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <fret>8</fret>
+              <string>1</string>
+              </Note>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>21</tpc>
+              <fret>9</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              <fret>6</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <fret>4</fret>
+              <string>0</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <fret>6</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>6</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <fret>4</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>6</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>49</pitch>
+              <tpc>21</tpc>
+              <fret>4</fret>
+              <string>4</string>
+              </Note>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <fret>3</fret>
+              <string>3</string>
+              </Note>
+            <Note>
+              <pitch>56</pitch>
+              <tpc>22</tpc>
+              <fret>1</fret>
+              <string>2</string>
+              </Note>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <fret>2</fret>
+              <string>1</string>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
+          <Rest>
+            <durationType>half</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Wanted to try my hand at this one for some time but did not have a tab. Then one day was listening to it,
+realized it is in a minor key, determined that it is an Bbm, and just moved around the scale in the first position
+to figure out the beginning. This went surpisingly well and the whole song was transcribed in a couple of hours.
+
+So, just knowing how to play major and minor scales on the guitar will give you this transcribing ability too.
+
+Finding the chords is harder, at least for me. It certainly helps having the ear recognize typical chord
+changes (like C to E, or I to iii, it sounds the same in all keys), still I am only able to find them long after
+learning the melody.
+
+14-26 Chet goes up by a quart here.
+
+24,40 Use only the pick to do these licks, it sounds much better without the index finger.
+
+27-36 Now we are back to Bbm, but the melody is an octave higher than in the beginning.
+
+36-37 This transition suggests Chet probably played it with a capo on the first fret, because it requires an
+exceptional agility to play open F and slide to it on the second string at the same time!</text>
+          </Text>
+        </TBox>
+      </Staff>
+    </Score>
+  </museScore>
