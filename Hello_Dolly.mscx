@@ -46,7 +46,7 @@
           <linesThrough>0</linesThrough>
           <minimStyle>1</minimStyle>
           <onLines>1</onLines>
-          <showRests>1</showRests>
+          <showRests>0</showRests>
           <stemsDown>1</stemsDown>
           <stemsThrough>0</stemsThrough>
           <upsideDown>0</upsideDown>
