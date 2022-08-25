@@ -45,7 +45,7 @@
           <linesThrough>0</linesThrough>
           <minimStyle>1</minimStyle>
           <onLines>1</onLines>
-          <showRests>0</showRests>
+          <showRests>1</showRests>
           <stemsDown>1</stemsDown>
           <stemsThrough>0</stemsThrough>
           <upsideDown>0</upsideDown>
@@ -4572,6 +4572,12 @@
       <Measure>
         <startRepeat/>
         <voice>
+          <Beam>
+            <Fragment>
+              <y1>11.5</y1>
+              <y2>11.5</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -5166,26 +5172,17 @@
       <Measure>
         <voice>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Note>
-              <pitch>81</pitch>
-              <tpc>17</tpc>
-              <fret>17</fret>
-              <string>0</string>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              <fret>12</fret>
+              <string>1</string>
               </Note>
             </Chord>
           <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
             <durationType>quarter</durationType>
-            <Note>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
-              <fret>12</fret>
-              <string>0</string>
-              </Note>
-            </Chord>
+            </Rest>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -5212,18 +5209,6 @@
               </Note>
             </Chord>
           <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              <fret>12</fret>
-              <string>1</string>
-              </Note>
-            </Chord>
-          <Rest>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -5235,10 +5220,6 @@
               <string>1</string>
               </Note>
             </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -5269,6 +5250,10 @@
               <string>2</string>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -5305,10 +5290,6 @@
               <string>1</string>
               </Note>
             </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -5345,6 +5326,10 @@
               <string>2</string>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -5369,10 +5354,6 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -5403,6 +5384,10 @@
               <string>2</string>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -5452,10 +5437,6 @@
               </Note>
             </Chord>
           <endTuplet/>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -5486,6 +5467,10 @@
               <string>1</string>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -5516,12 +5501,8 @@
               <string>2</string>
               </Note>
             </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
@@ -5530,13 +5511,7 @@
               </Note>
             </Chord>
           <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
             <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -6938,22 +6913,6 @@
             </Rest>
           <Rest>
             <durationType>quarter</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
